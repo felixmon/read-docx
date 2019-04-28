@@ -4,3 +4,4 @@
 2. 对sh 文件加上可执行权限： chmod+x read.sh
 3. 执行read.sh 而不是 py
 4. 执行语句： ./read.sh
+5
